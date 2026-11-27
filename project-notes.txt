@@ -1,0 +1,2 @@
+This repository was created for my IT6038 practical assessment.
+It is used to test GitHub commits and email notifications through Zapier.
